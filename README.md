@@ -1,4 +1,4 @@
-# White LED clock with Arduino Bano ESP32, shift register and Darlinton array
+# White LED clock with Arduino Bano ESP32, shift register and Darlington array
 
 A white LED word clock with Arduino ano ESP32 controlled with shift registers.
 ![V01-ESP32-HC595-3D](https://github.com/user-attachments/assets/c93c6547-6e5b-41f7-8211-471cd1d284f9)
