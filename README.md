@@ -3,7 +3,6 @@
 A white LED word clock with Arduino ano ESP32 controlled with shift registers.
 ![V01-ESP32-HC595-3D](https://github.com/user-attachments/assets/c93c6547-6e5b-41f7-8211-471cd1d284f9)
 
-
 This small PCB is used to built a Word clock with white LED strips and an LDR to control the light intensity of the LED-strip.
 The PCB is also handy for design purposes with an Arduino Nano ESP32 and can be used to turn on and off up to 32 LED-strips or other devices that draws power up to 500mA and up to 50V.
 
@@ -15,7 +14,7 @@ The PCB's looked perfect and soldering the components was easy.
 This PCB is a part of the [Ultimate word clock PCB](https://github.com/ednieuw/NanoESP32-BW-RGBW-clock).<br>
 The software from this clock will be modified for this PCB in due time but you can do it your self in the mean time.
 
-The only sensor is the LDR sensor and the transistors to generate a pulse widt mosulation pulse to control theintensity of the LED-strips.<br>
+The only sensor is the LDR sensor and the transistors to generate a pulse width modulation (PWM) pulse to control the intensity of the LED-strips.<br>
 With the WIFI and Bluetooth connection the clock can be controlled and get its time via NTP over WIFI.
 
 
